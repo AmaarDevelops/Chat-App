@@ -1,0 +1,1 @@
+export const BaseUrl='https://clouds-indonesia-oo-similar.trycloudflare.com'
